@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "837723493977",
+    "firebase_url": "https://nammakarur3.firebaseio.com",
+    "project_id": "nammakarur3",
+    "storage_bucket": "nammakarur3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837723493977:android:24fee7b667015bbb",
+        "android_client_info": {
+          "package_name": "com.kaalam.freakywebsys.nammakarur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837723493977-hn7qva0v6bi6kmcl0d7tipeglm2k2q9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaalam.freakywebsys.nammakarur",
+            "certificate_hash": "8ad8240b1d6672c3b0de582baba8c4cc5fa7861b"
+          }
+        },
+        {
+          "client_id": "837723493977-sgitcs4plfgdru1gg4apbm8poqv3i6kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4ovTdieJis8ZMV6fRSPQbxD4NA-8RxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837723493977-sgitcs4plfgdru1gg4apbm8poqv3i6kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
